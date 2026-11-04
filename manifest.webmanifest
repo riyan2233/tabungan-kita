@@ -1,0 +1,17 @@
+{
+  "name": "ABIE & BIA | Keuangan Keluarga",
+  "short_name": "ABIE & BIA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#115e59",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
